@@ -1,5 +1,5 @@
 <img style="float: right" src="https://avatars.githubusercontent.com/u/34399467?v=4">
-Muhammad Naim Sheikh is a Software Engineer with more that 3 years of experience and a strong passion in building high maintainable software. 
+<b>Muhammad Naim Sheikh</b> is a Software Engineer with more that 3 years of experience and a strong passion in building high maintainable software. 
 He spent the last years providing tools, knowledge and method to get the software design always better. Building a team, He believe in people and he think that the right ones are those that has strong passion for that work.
 He continuously improve his knowledge getting updated, reading books/blogs and play with the new available tools. 
 Over the years he has delivered software for companies such as Sundarban Courier Service (Pvt.) Ltd., Shanto-Mariam Foundation. 
